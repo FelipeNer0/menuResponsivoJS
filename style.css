@@ -62,10 +62,8 @@ main{
 }
 
 @media (max-width: 999px){
-    body{
+    body {
         overflow-x: hidden;
-
-
     }
 
     .nav-list{
@@ -93,7 +91,7 @@ main{
     }
 }
 
-.nav-list.active{
+.nav-list.active {
     transform: translateX(0);
 }
 
